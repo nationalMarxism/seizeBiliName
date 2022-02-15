@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\seizeBiliName\seizeBiliName\bin\Debug\seizeBiliName.exe
+C:\Users\Administrator\Desktop\seizeBiliName\seizeBiliName\bin\Debug\seizeBiliName.pdb
+C:\Users\Administrator\Desktop\seizeBiliName\seizeBiliName\bin\Debug\MetroFramework.Design.dll
+C:\Users\Administrator\Desktop\seizeBiliName\seizeBiliName\bin\Debug\MetroFramework.dll
+C:\Users\Administrator\Desktop\seizeBiliName\seizeBiliName\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Administrator\Desktop\seizeBiliName\seizeBiliName\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\seizeBiliName\seizeBiliName\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\seizeBiliName\seizeBiliName\obj\Debug\seizeBiliName.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\seizeBiliName\seizeBiliName\obj\Debug\seizeBiliName.Form1.resources
+C:\Users\Administrator\Desktop\seizeBiliName\seizeBiliName\obj\Debug\seizeBiliName.Properties.Resources.resources
+C:\Users\Administrator\Desktop\seizeBiliName\seizeBiliName\obj\Debug\seizeBiliName.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\seizeBiliName\seizeBiliName\obj\Debug\seizeBiliName.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\seizeBiliName\seizeBiliName\obj\Debug\seizeBiliName.csproj.CopyComplete
+C:\Users\Administrator\Desktop\seizeBiliName\seizeBiliName\obj\Debug\seizeBiliName.exe
+C:\Users\Administrator\Desktop\seizeBiliName\seizeBiliName\obj\Debug\seizeBiliName.pdb
+C:\Users\Administrator\Desktop\seizeBiliName\seizeBiliName\bin\Debug\seizeBiliName.exe.config
