@@ -13,6 +13,7 @@ using System.IO;
 using System.Collections;
 using System.Net;
 using System.Net.Mail;
+using System.Threading;
 
 namespace seizeBiliName
 {
@@ -173,20 +174,26 @@ namespace seizeBiliName
             for (int i = 0; i < Data.number; i++)
             {
                 string data=Send(Data.name[i]);
-                if (CheckResetShow(data,i))
+                //Thread.Sleep(50);
+                string dataTest = Send(Data.name[i]);
+                if (data==dataTest)
                 {
-                    AllowName.Items.Add(Data.name[i]);
-                    if (ifSendEmail.Checked)
+                    if (CheckResetShow(data, i))
                     {
-                        SendEmail(i);
-                    }
+                        AllowName.Items.Add(Data.name[i]);
+                        if (ifSendEmail.Checked)
+                        {
+                            SendEmail(i);
+                        }
 
-                    if (hide.Checked)
-                    {
-                        WindowState = FormWindowState.Normal;
-                        ShowInTaskbar = true;
+                        if (hide.Checked)
+                        {
+                            WindowState = FormWindowState.Normal;
+                            ShowInTaskbar = true;
+                        }
                     }
                 }
+
             }
             check.Enabled = true;
         }
